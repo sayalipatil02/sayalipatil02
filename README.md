@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sayali-blue?style=flat-square&logo=(https://www.linkedin.com/in/sayali-patil-b0a2a8232/)
-[![Website Badge](https://img.shields.io/badge/WebSite-sayalipatil02-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-sayali-yellow)](https://stackoverflow.com/users/18259112/sayali-patil)
+[![Website Badge](https://img.shields.io/badge/WebSite-Sayali-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Sayali-yellow)](https://stackoverflow.com/users/18259112/sayali-patil)
 
 I'm
 Full Stack Solution Architect
