@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sayali-blue?style=flat-square&logo=Linkedin&logoColor=white&link(https://www.linkedin.com/in/sayali-patil-b0a2a8232/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sayali-blue?style=flat-square&logo=Linkedin&logoColor=white&link)(https://www.linkedin.com/in/sayali-patil-b0a2a8232/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Sayali-green)](https://sayalipatil02.github.io/Sayali-profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sayali-yellow)](https://stackoverflow.com/users/18259112/sayali-patil)
 
