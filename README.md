@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=https://www.linkedin.com/in/sayali-patil-b0a2a8232/
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/18259112/sayali-patil)
 
 I'm
 Full Stack Solution Architect
